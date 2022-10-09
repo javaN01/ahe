@@ -1,0 +1,3 @@
+"test.obj" 
+TO "TEST1" 
+PRINT(".\Listings\TEST1.m51") DISABLEWARNING (16) 
